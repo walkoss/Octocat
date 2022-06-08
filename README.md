@@ -50,4 +50,4 @@ Ou voir le code ?
 Pour voir le code, lancez `emacs` suivi du fichier .c pour voir les indentations parfaitement. Sublime text affiche mal ceci.
 
 ----------
-Prêt à jouer ? On vous souhaite de trouver la sortie et surtout de bien vous amuser !!! 
+Prêt à jouer ? On vous souhaite de trouver la sortie et surtout de bien vous amuser !!!!!!!!!!!!!!!!!! 
